@@ -1,0 +1,9 @@
+Week,    DateRange,          PlannedEffort,  ActualEffort,  OtherDeadlines
+4, 29th Jan -  4th Feb,10h,8h(On lab),Database_cw1;Network_cw;Lexer_lab
+5,  5th Feb - 11th Feb,10h,8h(On lab)    ,Database_cw1;Network_cw;Parser_lab
+6, 12th Feb - 18th Feb,10h,8h(On lab)              ,Database_cw1; CodeGen_lab
+7, 19th Feb - 25th Feb,10h,10h(On lab)              ,Database_cw2; Maths_cw; CodeGen_lab
+8, 26th Feb -  4th Mar,10h,12h,Database_cw2; Maths_cw
+9,  5th Mar - 11th Mar,20h     ,24h  ,Maths_cw
+10, 12th Mar - 18th Mar,20h     ,24h,Maths_cw
+11, 19th Mar - 27th Mar,15h,24h              ,

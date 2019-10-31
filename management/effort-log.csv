@@ -1,0 +1,14 @@
+Date,Effort,Developers,Milestones
+26-Feb,2,yc4416;zf816,Translator_started
+27-Feb,2,,AST_started
+03-Mar,3,,Lexer_parser
+04-Mar,5,,Lexer_completed
+12-Mar,25,,AST_classes
+13-Mar,4,yc4416,Makefile_and_main
+14-Mar,21,yc4416;zf816,Translator_in_progress
+16-Mar,15,zf816,Translator_finished
+19-Mar,6,yc4416,Compiler_in_progress
+21-Mar,6,,Functions
+25-Mar,15,,Expressions
+27-Mar,8,,Statements
+28-Mar,10,,Global
