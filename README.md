@@ -134,4 +134,6 @@ Additional Notes & Acknowledgement
 - Unsolved bug: when compiling (T_VARIABLE T_MINUS T_NUMBER), will return syntax error, but (T_VARIABLE T_MINUS T_VARIABLE) works well, and all other operators work well
 - Yacc grammar reference:  https://www.lysator.liu.se/c/ANSI-C-grammar-y.html
 
-
+Warning
+-----------------------------------
+Unauthorised use as LangProc project will be plagarism
